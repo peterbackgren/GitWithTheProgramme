@@ -3,20 +3,20 @@
 Hobo,
 stop that pointless commit.
 
-Do it now, 
-your merge doesn’t fit.
+Do it now. 
+Your merge doesn’t fit.
 
 But how?
 
-Follow my lead, 
-you’ll GIT like a Linus.
+Follow my lead. 
+You’ll GIT like a Linus.
 
-You need it bro,
-you´re on minus.
+You need it bro.
+You´re on minus.
 
-I’ll help you GIT faster,
-...branch and prune...
-…to avoid disaster.
+I’ll help you GIT faster...
+Branch and prune.
+To avoid disaster.
 
-GIT with the programme,
-fix and stage like a true master.
+GIT with the programme.
+Fix and stage like a true master.
