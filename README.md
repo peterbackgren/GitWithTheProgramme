@@ -14,9 +14,9 @@ you’ll GIT like a Linus.
 You need it bro,
 you´re on minus.
 
-GIT with the programme,
-fix and stage like a true master…
-
 I’ll help you GIT faster,
 ...branch and prune...
 …to avoid disaster.
+
+GIT with the programme,
+fix and stage like a true master.
