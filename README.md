@@ -1,28 +1,21 @@
 # GitWithTheProgramme
 
-Hobo,
-stop that pointless commit.
+Hobo...
+...stop that pointless commit.
 
-Do it now. 
-
-Your merge doesn’t fit.
+Do it now... 
+...your merge doesn’t fit.
 
 But how?
 
-Follow my lead. 
+Follow my lead...
+...You’ll GIT like a Linus.
 
-You’ll GIT like a Linus.
-
-You need it bro.
-
-You´re on minus.
+You need it bro...
+...You´re on minus.
 
 I’ll help you GIT faster...
-
-Branch and prune.
-
-To avoid disaster.
-
-GIT with the programme.
-
-Fix and stage like a true master.
+...branch and prune...
+...to avoid disaster.
+...GIT with the programme...
+...fix and stage like a true master.
